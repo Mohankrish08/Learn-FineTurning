@@ -34,7 +34,7 @@ Eg: Legal document analysis, Chatbots and Medical Q&A.
 ---
 ## SFT + PEFT
 
-[see Lora code](https://github.com/Mohankrish08/Learn-FineTurning/blob/main/Supervised%20FineTurning/PEFT/Lora/Indian_IPC_FT.ipynb)
+[Indian IPC FT by Lora](https://github.com/Mohankrish08/Learn-FineTurning/blob/main/Supervised%20FineTurning/PEFT/Lora/Indian_IPC_FT.ipynb)
 
 
 ## What is Supervised Fine-Turning?
